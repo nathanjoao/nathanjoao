@@ -1,7 +1,6 @@
 ## Olá 👋, me chamo Nathan João Lima
 
 - 😃 Atualmente, sou estudante de programação full stack
-- 💻 Estou estudando **Java**, **JavaScript**, **HTML**, e **CSS**
 - 📫 Você pode me contatar pelo e-mail: [limanathanjoao@gmail.com](mailto:limanathanjoao@gmail.com)
 
 ### Estatísticas do GitHub 📊
@@ -20,9 +19,6 @@
   </a>
   <a href="https://www.linkedin.com/in/nathanjoaolima" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/nathanjoaolima" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/nathanjoaolima?label=Follow&style=social" alt="Twitter Follow">
   </a>
 </div>
 
